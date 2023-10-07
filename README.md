@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html lang="en">
-    
+
 <body>
     <!--header-->
     <header>
@@ -10,7 +11,7 @@
                     <h1>CURRICULUM  VITAE</h1>
                     <img src="d:\New folder (2)\New folder\style\_DSC0572.JPG" alt="រូបថត" width="130px"> 
                 </td>
-                
+
             </tr>
         </table>
         <!--Person Details-->
@@ -76,7 +77,7 @@
                 </td>
             </tr>
             </table>
-            
+
         </section>
         <!--Education-->
         <section>
